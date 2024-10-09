@@ -1,7 +1,6 @@
 """
-Arthur Gramlich
-Data Structures Section 1
-August 9th, 2024
+Weekly Pay Program Coursework
+By: Arthur Gramlich
 """
 
 #Initial Pay Rates
