@@ -1,6 +1,6 @@
 """
 Counting Program Coursework
-By AJ Gramlich
+By: AJ Gramlich
 """
 x = input ("Please enter a statement.")
 
