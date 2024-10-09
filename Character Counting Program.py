@@ -1,5 +1,5 @@
 """
-Counting Program Coursework
+Character Counting Program Coursework
 By: AJ Gramlich
 """
 x = input ("Please enter a statement.")
