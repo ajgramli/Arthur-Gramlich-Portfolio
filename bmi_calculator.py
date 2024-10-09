@@ -1,7 +1,6 @@
 """
-Arthur Gramlich
-Data Structures Section 1
-September 29th, 2024
+BMI Calculator Coursework
+By: Arthur Gramlich
 """
 
 height = 0
