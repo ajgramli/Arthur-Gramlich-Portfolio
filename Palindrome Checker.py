@@ -1,8 +1,6 @@
 """
-Implementing a Queue Coursework 
+Queue and Palindrome Coursework 
 By: Arthur Gramlich
-Data Structures Section 1
-November 3rd, 2024
 """
 
 from collections import deque
