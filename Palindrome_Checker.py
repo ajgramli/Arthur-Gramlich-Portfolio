@@ -20,7 +20,7 @@ def palicheck(pali):
         dequepali.pop()     #removes the last character in the queue after it is checked
     return True #if they are the same
 
-pali = input("Please enter a word or phrase. ")
+pali = input("Please enter a word or phrase. ") 
 
 if palicheck(pali): #checks if it is a palindrome
     print (f"{pali} is a palindrome. ")
