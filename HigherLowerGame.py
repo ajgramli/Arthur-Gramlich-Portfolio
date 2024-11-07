@@ -1,3 +1,8 @@
+"""
+Higher or Lower Deck Game
+By: Arthur Gramlich
+"""
+
 import random
 
 class Card:
