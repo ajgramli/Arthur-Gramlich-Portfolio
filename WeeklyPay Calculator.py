@@ -27,4 +27,4 @@ HourlyPay = HourRate * HoursWorked
 CommissionPay = CommissionRate * WeeklySales
 WeeklyPay = HourlyPay + CommissionPay
 
-print ("You worked", HoursWorked, "hours this week.", "Your hourly pay is $", HourRate, ". Your commission pay this week is $", CommissionPay, ". Your total pay for the week is $", WeeklyPay, ".");
+print ("You worked", HoursWorked, "hours this week.", "Your hourly pay is $", HourRate, ". Your commission pay this week is $", CommissionPay, ". Your total pay for the week is $", WeeklyPay, ".")
