@@ -1,4 +1,4 @@
-The contents of this repository are the python and database projects that I have built. This ranges from coursework to recreational projects. 
+The contents of this repository are the python and database projects that I have built for my professional portfolio. 
 
 To talk in further detail about my projects, message me at: 
 
