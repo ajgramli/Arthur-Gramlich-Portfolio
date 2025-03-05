@@ -1,6 +1,6 @@
 """
 HyperGeometric Calculator without math import
-By: Arthur Gramlich
+By: Arthur Gramlich 
 """
 
 def factorial(n): #function to determine the factorial value
