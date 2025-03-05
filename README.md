@@ -5,4 +5,4 @@ To talk in further detail about my projects, message me at:
 
 email: ajgramli01@gmail.com
 
-LinkedIn: [linkedin.com/in/arthurgramlich]([linkedin.com/](https://www.linkedin.com/in/arthurgramlich/))
+LinkedIn: [My Profile](https://www.linkedin.com/in/arthurgramlich/)
