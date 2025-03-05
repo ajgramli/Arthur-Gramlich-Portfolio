@@ -1,6 +1,6 @@
 """
 Higher or Lower Card Game Project
-By: Arthur Gramlich
+By: Arthur Gramlich 
 """
 
 import random
