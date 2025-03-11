@@ -19,7 +19,7 @@ LinkedIn: [Profile](https://www.linkedin.com/in/arthurgramlich/)
 
 **Implementation and Application**: To try out the program, download the file or copy the code and use an IDE such as [Public IDE](https://www.online-python.com/).
 
-### Hypergemetric Calculator (Python) [code](Hypergeometric_Calculator.py)
+### Hypergeometric Calculator (Python) [code](Hypergeometric_Calculator.py)
 **Description**: The _Hypergeometric Calculator_ python project is a prompt based calculator that determines the likelihood of a desired outcome from a defined sample. The user is prompted with the name of the sample, what they are looking for, how much they are looking for, the total amount, the attempts to find the sample, and the desired amount. The program uses custom functions to calculate factorials and combinations without relying on external math libraries. It validates user inputs to ensure they are non-negative integers and outputs the probability of achieving the desired outcome as a percentage.
 
 **Key Features**:
