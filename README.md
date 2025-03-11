@@ -18,4 +18,7 @@ LinkedIn: [Profile](https://www.linkedin.com/in/arthurgramlich/)
 + User input and validation
 
 **Implementation and Application**:
-To try out the program, download the file above and use an IDE such as [Public IDE](https://www.online-python.com/).
+To try out the program, download the file or copy the code and use an IDE such as [Public IDE](https://www.online-python.com/).
+
+### 2. Hypergemetric Calculator (Python) [code](Hypergeometric Calculator.py)
+
