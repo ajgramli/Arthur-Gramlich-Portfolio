@@ -5,4 +5,4 @@ To talk in further detail about my projects, message me at:
 email: ajgramli01@gmail.com
 LinkedIn: [My Profile](https://www.linkedin.com/in/arthurgramlich/)
 
-## Higher or Lower Game (Python) HigherLowerGame.py
+## Higher or Lower Game (Python) [file](HigherLowerGame.py)
