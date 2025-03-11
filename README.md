@@ -7,5 +7,4 @@ email: ajgramli01@gmail.com
 
 LinkedIn: [My Profile](https://www.linkedin.com/in/arthurgramlich/)
 
-![image](https://github.com/user-attachments/assets/536e2836-c05b-4d02-956c-4ebd2e5e8c83)
 
