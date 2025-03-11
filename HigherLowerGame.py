@@ -1,6 +1,6 @@
 """
 Higher or Lower Card Game Project
-By: Arthur Gramlich 
+By: Arthur Gramlich
 """
 
 import random
@@ -28,9 +28,9 @@ class Card: #creates cards in the deck
 
 def getguess(): #retrieves user's guess
     while True:
-        guess = input (f"Will the next card be higher or lower than {randomCard}? ")
-        if guess in ('higher', 'h', 'lower', 'l'):
-            return guess
+        guess = input(f"Will the next card be higher or lower than {randomCard}? ").lower()
+        if guess in ('higher', 'h', 'lower', 'l'): 
+            return guess 
         else:
             print("Invalid input. Please enter higher or lower. ")
 
@@ -50,7 +50,7 @@ if start =='y':
     
     while len(deck) > 0: #goes until deck is empty
         nextCard = deck.pop()
-        guess = getguess()
+        guess = getguess() 
         guesses += 1
         
         if (guess == 'higher' or guess == 'h') and nextCard > randomCard: #if the next card is higher and the guess was higher
