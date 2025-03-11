@@ -42,7 +42,11 @@ LinkedIn: [Profile](https://www.linkedin.com/in/arthurgramlich/)
 **Dashboard Link**: [Dashboard](https://public.tableau.com/app/profile/arthur.gramlich/viz/HouseSalesDashboard_17409782570120/Dashboard1)
 
 ### Data Survey Dashboard (Power BI) [Resources](Power%BI%Data%Survey%Resources/)
-**Description**: The Power BI _Data Survey_ dashboard analyzed public survey answers from data professionals from around the world. The 
+**Description**: The Power BI _Data Survey_ dashboard analyzed public survey answers from data professionals from around the world. The dataset was cleaned using Power BI Power Query. This project aims to provide insights into various aspects of the data profession through interactive visualizations and comprehensive analysis. 
 
 **Key Features**:
++ Interactive visualizations
++ Salary analysis
++ Power Query utilization
 
+![image](https://github.com/user-attachments/assets/f76080a5-aaae-48f4-a2ba-ec518cbdf705)
